@@ -36,7 +36,7 @@
     "gulp-svgstore": "^7.0.0",
     "gulp-uglify": "^3.0.0",
     "laravel-mix": "^2.1.11",
-    "node-sass": "^4.9.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "angular-local-storage": "^0.7.1",
